@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class tablamultiplicar{
-//modificadcion 1	
+	
 	public static void main(String[] args){
 	System.out.println("introduce un numero");
 	Scanner teclado= new Scanner(System.in);
